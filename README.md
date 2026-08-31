@@ -12,20 +12,32 @@ Atualmente, venho ampliando meus conhecimentos em Engenharia de Dados e Intelig�
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Dados & BI**  
-Power BI • DAX • Power Query • Excel
+### Dados & BI
 
-**Banco de Dados**  
-SQL • PostgreSQL
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-**Python & Automação**  
-Python • Playwright
+### Banco de Dados
 
-**Engenharia de Dados**  
-ETL • Extração • Transformação • Tratamento • Validação • Modelagem de Dados
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Ferramentas**  
-VS Code • DBeaver • pgAdmin
+### Python & Automação
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+### Ferramentas
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Engenharia de Dados
+
+`ETL` • `Extração` • `Transformação` • `Tratamento` • `Validação` • `Modelagem de Dados`
 
 ---
 
